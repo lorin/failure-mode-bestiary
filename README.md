@@ -1,6 +1,6 @@
  # Failure mode bestiary
 
-A collection of failure modes I've seen in software system.
+A collection of failure modes I've seen in software systems.
 
 If you enjoy this, you may also be intersted in:
 
