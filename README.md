@@ -4,7 +4,12 @@ A collection of failure modes I've seen in software systems.
 
 If you enjoy this, you may also be interested in:
 
-* My [awesome-limits](https://github.com/lorin/awesome-limits) list of limits
+(From me)
+* [awesome-limits](https://github.com/lorin/awesome-limits) list of limits
+* [A conjecture on why reliable systems fail](https://surfingcomplexity.blog/2017/06/24/a-conjecture-on-why-reliable-systems-fail/)
+
+
+(From others)
 * [The VOID (Vericia Open Incident Database)](https://www.thevoid.community/)
 * [Incident Phenomena: Shorthand Names, à la Danny Ocean](https://www.adaptivecapacitylabs.com/blog/2020/12/21/incident-phenomena-shorthand-names-a-la-danny-ocean/)
 
