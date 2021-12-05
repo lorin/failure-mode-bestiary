@@ -1,6 +1,11 @@
  # Failure mode bestiary
 
-A collection of failure modes observed in software systems
+A collection of failure modes I've seen in software system.
+
+If you enjoy this, you may also be intersted in:
+
+* [The VOID (Vericia Open Incident Database)](https://www.thevoid.community/)
+* [Incident Phenomena: Shorthand Names, à la Danny Ocean](https://www.adaptivecapacitylabs.com/blog/2020/12/21/incident-phenomena-shorthand-names-a-la-danny-ocean/)
 
 ## Blackholed traffic
 
