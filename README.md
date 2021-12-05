@@ -18,7 +18,7 @@ When you accidentally route traffic to the wrong place.
 
 ## Expired certificate
 
-When your TLS certificate expires️.
+When your TLS certificate expires️, and all of the sudden clients aren't able to communicate with servers anymore.
 
 ## Poisoned cache
 
