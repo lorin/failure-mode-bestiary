@@ -14,7 +14,7 @@ When you accidentally route traffic to the wrong place.
 >
 > It was DNS
 
-[SSbroski](https://www.reddit.com/r/homelab/comments/5i6kza/comment/db5rzub/?utm_source=share&utm_medium=web2x&context=🤽‍♂️3)
+Attributed to Reddit user [SSbroski](https://www.reddit.com/r/homelab/comments/5i6kza/comment/db5rzub/?utm_source=share&utm_medium=web2x&context=🤽‍♂️3)
 
 ## Expired certificate
 
