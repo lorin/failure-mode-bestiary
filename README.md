@@ -31,6 +31,10 @@ Attributed to Reddit user [SSbroski](https://www.reddit.com/r/homelab/comments/5
 
 When your TLS certificate expires️, and all of the sudden clients aren't able to communicate with servers anymore.
 
+## Fixing a small problem creates a big problem
+
+When a manual intervention that was intended to mitigate a minor incident triggers a major incident.
+
 ## Poisoned cache
 
 When an invalid data is stored in a cache, leading your service to error or return invalid data until the cache expires.
@@ -48,6 +52,10 @@ Whenever the system hits some limit that it isn't able to handle.  See [awesome-
 ## Thundering herd
 
 When you get an atypically large amount of traffic coming into the system. For example, let's say you have a large number of devices in the field that are all scheduled to reboot at the same time, and they all phone home on startup. This is a specific example of *saturation*.
+
+## Unexpected behavior from a helpful system
+
+When an incident is triggered by unexpected behavior of a subsystem whose primary purpose was to improve operations in some way (e.g., improve reliability, observability, degrade gracefully).
 
 
 ## Unscoped query
